@@ -32,11 +32,11 @@ p {
   justify-content: center;
   align-items: center;
   height: 12.5rem;
-  background-color: rgb(153, 153, 153);
   border: 4px solid #ffffff;
   border-radius: 8px;
+  background-color: rgb(32, 64, 86);
   font-size: 7rem;
   font-weight: 900;
   color: rgb(255, 255, 255);
-  
+  cursor: pointer;
 }
